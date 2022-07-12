@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ruslanpepa/GeekBrains/HW01_C#/Zadacha001/HW01_C#.csproj": {}
+    "/Users/ruslanpepa/GeekBrains/HW01_C#/Zadacha004/Zadacha004.csproj": {}
   },
   "projects": {
-    "/Users/ruslanpepa/GeekBrains/HW01_C#/Zadacha001/HW01_C#.csproj": {
+    "/Users/ruslanpepa/GeekBrains/HW01_C#/Zadacha004/Zadacha004.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ruslanpepa/GeekBrains/HW01_C#/Zadacha001/HW01_C#.csproj",
-        "projectName": "HW01_C#",
-        "projectPath": "/Users/ruslanpepa/GeekBrains/HW01_C#/Zadacha001/HW01_C#.csproj",
+        "projectUniqueName": "/Users/ruslanpepa/GeekBrains/HW01_C#/Zadacha004/Zadacha004.csproj",
+        "projectName": "Zadacha004",
+        "projectPath": "/Users/ruslanpepa/GeekBrains/HW01_C#/Zadacha004/Zadacha004.csproj",
         "packagesPath": "/Users/ruslanpepa/.nuget/packages/",
-        "outputPath": "/Users/ruslanpepa/GeekBrains/HW01_C#/Zadacha001/obj/",
+        "outputPath": "/Users/ruslanpepa/GeekBrains/HW01_C#/Zadacha004/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ruslanpepa/.nuget/NuGet/NuGet.Config"
